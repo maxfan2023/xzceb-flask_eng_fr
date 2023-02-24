@@ -38,10 +38,3 @@ language_translator = LanguageTranslatorV3(
 )
 
 language_translator.set_service_url(url)
-# english_text='Hello'
-# english_text=null
-# result = english_To_French(english_text)
-
-# result_json=json.loads(result)
-# resutl = english_To_French(None)
-# print(result)
